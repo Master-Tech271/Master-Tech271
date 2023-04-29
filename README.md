@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AI, ML and how to sell products
 - 💞️ I’m looking to collaborate on High Level Projects
 - 📫 This is my Email umar17605@gmail.com
-- Portfolio Link projects till july 2020 http://uac.totalh.net/?i=1
+- Portfolio Link projects till july 2020 https://umar-ol-portfolio.tiiny.site/
 - I am not mention after august 2020 Projects in my portfolio. 
 
 <!---
