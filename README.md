@@ -16,7 +16,7 @@ Get in Touch:
 
 Portfolio Projects:
 
-🔗 Check out my portfolio projects from August 2020 to July 2023 [here](https://docs.google.com/document/d/e/2PACX-1vRAzooe4uSngt_XPa3fW870b-Yx5gn80x7nBoVHetguanJqIo8eiNDY8NJzlmu5rQ/pub), featuring projects like [Golf PDI](https://golfpdi.com/), [JGH Hub App]([url](https://juniorgolfhub.com/)), [Mint+](https://www.simpleviewinc.com/products/data-insights/meetings-and-groups-database/), [EyeQ](https://www.daffodilsw.com/case-study/modernizing-hospital-management-software-for-eyeq/), and more.
+🔗 Check out my portfolio projects from August 2020 to July 2023 [here](https://docs.google.com/document/d/e/2PACX-1vRAzooe4uSngt_XPa3fW870b-Yx5gn80x7nBoVHetguanJqIo8eiNDY8NJzlmu5rQ/pub), featuring projects like [Golf PDI](https://golfpdi.com/), [JGH Hub App](https://juniorgolfhub.com/), [Mint+](https://www.simpleviewinc.com/products/data-insights/meetings-and-groups-database/), [EyeQ](https://www.daffodilsw.com/case-study/modernizing-hospital-management-software-for-eyeq/), and more.
 
 Flexible Collaboration:
 
